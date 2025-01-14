@@ -1,6 +1,14 @@
-# my-nvim-config
+-- Neovim Configuration
+-- ====================
+-- This configuration is partially based on the setup by Hendrik Mi (https://github.com/hendrikmi).
+-- I have added custom configurations for auto-session management and STM32 Cortex-M debugging.
+
+-- Plugins and Keymaps
 
 ---
+
+-- Plugins are managed using a plugin manager (e.g., packer.nvim, lazy.nvim).
+-- Keymaps are optimized for productivity and ease of use.
 
 ## **Leader Key**
 
