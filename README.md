@@ -1,9 +1,5 @@
 # my-nvim-config
 
-# Neovim Configuration - Complete README
-
-This document provides a comprehensive overview of the keybindings, plugins, and configurations in the Neovim setup. These configurations are designed to enhance productivity and provide a better editing experience.
-
 ---
 
 ## **Leader Key**
